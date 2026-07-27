@@ -1,2 +1,2 @@
-# TBOT
+# Trading-Bot-V3
 XAU/USD TRADING BOT
